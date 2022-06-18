@@ -70,6 +70,7 @@ Last thing: Remember to delete your CloudFormation stack when you're done to avo
 # MY SOLUTION:
 
 ### Architecture Diagram
+![IAAS_PROJECT](https://user-images.githubusercontent.com/28826528/174418222-a958382b-85ca-463f-b7a9-4619a304813a.png)
 
 
 ### Scripts
